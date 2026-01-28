@@ -16,58 +16,70 @@
         <description>&lt;h1 id=&#34;正文&#34;&gt;正文
 &lt;/h1&gt;&lt;h2 id=&#34;题目一滑稽&#34;&gt;题目一：滑稽
 &lt;/h2&gt;&lt;p&gt;ctrl+u是查看网页源码的快捷键
-&lt;img src=&#34;https://BOKING1314.github.io/103660cbaae55b15f701a1c62b981115.png&#34;
+&lt;img src=&#34;https://BOKING1314.github.io/post/webblog1/103660cbaae55b15f701a1c62b981115.jpg&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
+	
+		alt=&#34;image 1&#34;
 	
 	
 &gt;
 发现flag&lt;/p&gt;
 &lt;h2 id=&#34;题目二get&#34;&gt;题目二：GET
 &lt;/h2&gt;&lt;p&gt;提示信息
-&lt;img src=&#34;https://BOKING1314.github.io/c3482ffbdb8b007f7ec4b16daa703866.png&#34;
+&lt;img src=&#34;https://BOKING1314.github.io/post/webblog1/c3482ffbdb8b007f7ec4b16daa703866.jpg&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
+	
+		alt=&#34;image 2&#34;
 	
 	
 &gt;
 只需要传what参数等于flag即可得出答案，输入&lt;code&gt;?what=flag&lt;/code&gt;
-&lt;img src=&#34;https://BOKING1314.github.io/64e701ba54ce80dfd10a99b45d55ccf6.png&#34;
+&lt;img src=&#34;https://BOKING1314.github.io/post/webblog1/64e701ba54ce80dfd10a99b45d55ccf6.jpg&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
+	
+		alt=&#34;image 3&#34;
 	
 	
 &gt;&lt;/p&gt;
-&lt;h3 id=&#34;题目三post&#34;&gt;题目三：POST
-&lt;/h3&gt;&lt;p&gt;提示信息
-&lt;img src=&#34;https://BOKING1314.github.io/4f0b81d9ccfc85999aed308c27140f8c.png&#34;
+&lt;h2 id=&#34;题目三post&#34;&gt;题目三：POST
+&lt;/h2&gt;&lt;p&gt;提示信息
+&lt;img src=&#34;https://BOKING1314.github.io/post/webblog1/4f0b81d9ccfc85999aed308c27140f8c.jpg&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
+	
+		alt=&#34;image 4&#34;
 	
 	
 &gt;
 发现由GET变成了POST，可以看到GET和POST的区别
-&lt;img src=&#34;https://BOKING1314.github.io/090c5d34372cca8d114348fef4860e5b.png&#34;
+&lt;img src=&#34;https://BOKING1314.github.io/post/webblog1/090c5d34372cca8d114348fef4860e5b.jpg&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
+		alt=&#34;image 5&#34;
 	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://BOKING1314.github.io/0299da7e99ad772a8bd5e93ed8c0141f.png&#34;
+	
+&gt;
+&lt;img src=&#34;https://BOKING1314.github.io/post/webblog1/0299da7e99ad772a8bd5e93ed8c0141f.jpg&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
+	
+		alt=&#34;image 6&#34;
 	
 	
 &gt;&lt;/p&gt;
