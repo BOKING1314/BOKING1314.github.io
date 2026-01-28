@@ -7,7 +7,73 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>博博金-Bobking</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://BOKING1314.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://BOKING1314.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>web学习</title>
+        <link>https://BOKING1314.github.io/p/webblog1/</link>
+        <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://BOKING1314.github.io/p/webblog1/</guid>
+        <description>&lt;h1 id=&#34;正文&#34;&gt;正文
+&lt;/h1&gt;&lt;h2 id=&#34;题目一滑稽&#34;&gt;题目一：滑稽
+&lt;/h2&gt;&lt;p&gt;ctrl+u是查看网页源码的快捷键
+&lt;img src=&#34;https://BOKING1314.github.io/103660cbaae55b15f701a1c62b981115.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+发现flag&lt;/p&gt;
+&lt;h2 id=&#34;题目二get&#34;&gt;题目二：GET
+&lt;/h2&gt;&lt;p&gt;提示信息
+&lt;img src=&#34;https://BOKING1314.github.io/c3482ffbdb8b007f7ec4b16daa703866.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+只需要传what参数等于flag即可得出答案，输入&lt;code&gt;?what=flag&lt;/code&gt;
+&lt;img src=&#34;https://BOKING1314.github.io/64e701ba54ce80dfd10a99b45d55ccf6.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;题目三post&#34;&gt;题目三：POST
+&lt;/h3&gt;&lt;p&gt;提示信息
+&lt;img src=&#34;https://BOKING1314.github.io/4f0b81d9ccfc85999aed308c27140f8c.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+发现由GET变成了POST，可以看到GET和POST的区别
+&lt;img src=&#34;https://BOKING1314.github.io/090c5d34372cca8d114348fef4860e5b.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://BOKING1314.github.io/0299da7e99ad772a8bd5e93ed8c0141f.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://BOKING1314.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
@@ -29,7 +95,7 @@
 &lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://BOKING1314.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://BOKING1314.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e98fca2b4272416e.jpg 480w, https://BOKING1314.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_e3d37c9ded115b12.jpg 1024w&#34;
+	srcset=&#34;https://BOKING1314.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_7b8a06820e6d5c.jpg 480w, https://BOKING1314.github.io/p/test-chinese/florian-klauer-nptLmg6jqDo-unsplash_hu_a347f10e565b40ff.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
@@ -42,7 +108,7 @@
 &gt;  &lt;img src=&#34;https://BOKING1314.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;667&#34;
-	srcset=&#34;https://BOKING1314.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_e13c58d5189f892c.jpg 480w, https://BOKING1314.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_8fc948b7ee525251.jpg 1024w&#34;
+	srcset=&#34;https://BOKING1314.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_258fc4da0cfc7de9.jpg 480w, https://BOKING1314.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu_d415bcea096fe061.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
@@ -56,7 +122,7 @@
 &lt;p&gt;&lt;img src=&#34;https://BOKING1314.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
 	width=&#34;1000&#34;
 	height=&#34;750&#34;
-	srcset=&#34;https://BOKING1314.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_503c0ebcc5245e10.jpg 480w, https://BOKING1314.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_48c98de55fb3c999.jpg 1024w&#34;
+	srcset=&#34;https://BOKING1314.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_dfbb0c559c3df461.jpg 480w, https://BOKING1314.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu_212d0718b8e99eaa.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
@@ -69,7 +135,7 @@
 &gt;  &lt;img src=&#34;https://BOKING1314.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
 	width=&#34;667&#34;
 	height=&#34;1000&#34;
-	srcset=&#34;https://BOKING1314.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_f81a3588c5c4a663.jpg 480w, https://BOKING1314.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1c52ba2a4ad7b9a0.jpg 1024w&#34;
+	srcset=&#34;https://BOKING1314.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_41819e288bf4a8c0.jpg 480w, https://BOKING1314.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hu_1277885c87f69490.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
