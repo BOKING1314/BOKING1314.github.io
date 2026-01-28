@@ -25,7 +25,7 @@
 		alt=&#34;image 1&#34;
 	
 	
-&gt;
+&gt;&lt;br&gt;
 发现flag&lt;/p&gt;
 &lt;h2 id=&#34;题目二get&#34;&gt;题目二：GET
 &lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://BOKING1314.github.io/post/webblog1/c3482ffbdb8b007f7ec4b16daa703866.jpg&#34;
@@ -37,9 +37,9 @@
 		alt=&#34;image 2&#34;
 	
 	
-&gt;
-提示信息
-只需要传what参数等于flag即可得出答案，输入&lt;code&gt;?what=flag&lt;/code&gt;
+&gt;&lt;br&gt;
+提示信息&lt;br&gt;
+只需要传what参数等于flag即可得出答案，输入&lt;code&gt;?what=flag&lt;/code&gt;&lt;br&gt;
 &lt;img src=&#34;https://BOKING1314.github.io/post/webblog1/64e701ba54ce80dfd10a99b45d55ccf6.jpg&#34;
 	
 	
@@ -60,9 +60,9 @@
 		alt=&#34;image 4&#34;
 	
 	
-&gt;
-提示信息
-发现由GET变成了POST，可以看到GET和POST的区别
+&gt;&lt;br&gt;
+提示信息&lt;br&gt;
+发现由GET变成了POST，可以看到GET和POST的区别&lt;br&gt;
 &lt;img src=&#34;https://BOKING1314.github.io/post/webblog1/090c5d34372cca8d114348fef4860e5b.jpg&#34;
 	
 	
